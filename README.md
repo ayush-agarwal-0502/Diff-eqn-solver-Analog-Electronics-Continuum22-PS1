@@ -38,6 +38,15 @@ Total Circuit :
 
 ![circuit_total](https://user-images.githubusercontent.com/86561124/163672432-3ac3f1fc-949b-4d17-b1a2-2465602d3c20.JPG)
 
+## Output Graphs :
+
+![graph_2](https://user-images.githubusercontent.com/86561124/163672655-575fc950-0cda-49c6-b41d-5ac8b1fb5b5b.JPG)
+![graph_3](https://user-images.githubusercontent.com/86561124/163672662-83f74795-36cf-4b61-a650-91c14e99e3df.JPG)
+![graph_4](https://user-images.githubusercontent.com/86561124/163672665-2ac62784-4576-4019-a830-65bc8a003967.JPG)
+![graph_1](https://user-images.githubusercontent.com/86561124/163672679-32ddc610-e0b9-4167-9cb7-2581ac6dc651.JPG)
+
+
+
 
 
 
