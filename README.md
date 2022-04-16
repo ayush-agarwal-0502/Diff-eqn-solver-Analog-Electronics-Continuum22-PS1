@@ -26,7 +26,7 @@ Make Analog electronic solution for 2 differential equations , and find where th
 
 ## My solution :
 
-Circuit 1 :
+Circuit 1 : (Differentiator and amplifier , easy to understand circuit , indirectly can be read as putting amplified derivative equal to the variable itself , which is the differential equation given in the PS )
 
 ![circuit_1](https://user-images.githubusercontent.com/86561124/163672410-d0fce09d-cb93-4ff8-bd3e-40a0171f3781.JPG)
 
