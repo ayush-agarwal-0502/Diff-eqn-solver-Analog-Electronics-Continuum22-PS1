@@ -6,6 +6,7 @@ Differential Equation solving using Analog electronics circuit , solution to Con
 * Team name - Resonant Oscillators 
 
 Our team secured rank 1 in the event "Continuum" held in 2022 under "UDYAM" , the electronics department fest of IIT BHU . This was my winning entry .
+The circuit files are uploaded in the zip file .
 
 ![image](https://user-images.githubusercontent.com/86561124/163671925-9755bb24-01d6-406c-b0de-fea577dc9b5a.png)
 
